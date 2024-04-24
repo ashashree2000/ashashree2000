@@ -7,12 +7,12 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashashree+Sarma!;" alt="typing animation"/>
  </h1>
  
- <h3>A passionate software developer from India 🇮🇳</h3>
+ <h3>A passionate Machine Learning - AI engineer from India 🇮🇳</h3>
 
  <p>🔭 I'm currently working as a <strong>freelancer</strong><br/>
- 🌱 I'm currently learning <strong>Docker, Supabase, AWS</strong><br/>
- 💬 Ask me about <strong>Node.js, React, Firebase... or anything <a href="https://www.linkedin.com/in/ashashree2000/">here</a></strong><br/>
- ⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs</p>
+ 🌱 I'm currently upskilling on <strong>Deep Learning, LLMs, Gen AI</strong><br/>
+ 💬 Ask me about <strong>ML Ops, Neural Networks, Image Processing... or anything <a href="https://www.linkedin.com/in/ashashree17321/">here</a></strong><br/>
+ ⚡ Fun fact: AI-powered robots like Sophia have been granted citizenship in some countries</p>
  
 <div>
  <a href="https://new-portfolio-inky-eight.vercel.app/" target="_blank">
