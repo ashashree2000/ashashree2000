@@ -1,98 +1,92 @@
-<div align="center">
-  
+# Ashashree Sarma
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ashashree2000.ashashree2000" alt="visitor badge" align="right"/>
- </br>
- <h1>
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashashree+Sarma!;" alt="typing animation"/>
- </h1>
- 
- <h3>A passionate Machine Learning - AI engineer from India 🇮🇳</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashashree2000/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ashashreesarma7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/asha7shree" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+</p>
 
- <p>🔭 I'm currently working as a <strong>freelancer</strong><br/>
- 🌱 I'm currently upskilling on <strong>Deep Learning, LLMs, Gen AI</strong><br/>
- 💬 Ask me about <strong>ML Ops, Neural Networks, Image Processing... or anything <a href="https://www.linkedin.com/in/ashashree17321/">here</a></strong><br/>
- ⚡ Fun fact: AI-powered robots like Sophia have been granted citizenship in some countries</p>
- 
-<div>
- <a href="https://asha07-ashashrees-projects.vercel.app/" target="_blank">
-   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio badge"/>
- </a>
- <a href="mailto:ashashreesarma7@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail badge"/>
- </a>
- <a href="https://www.linkedin.com/in/ashashree17321/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
- </a>
- <a href="https://api.whatsapp.com/send?phone=8403851199" target="_blank">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp badge"/>
- </a>
-</div>
+## About Me
 
+I am a passionate and skilled Computer Science and Engineering student with expertise in various technologies and programming languages. My areas of interest include Deep Learning, Computer Vision, Natural Language Processing, and Data Science. I have a strong academic background and hands-on experience through internships and projects.
 
- <hr/>
+## Education
 
- <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+- **Bachelor of Engineering (Honors) in Computer Science & Engineering**
+  - Assam Engineering College, Assam Science and Technology University (Aug 2019 - Jun 2023)
+  - First Class, 81.4% (Top 5%)
 
-<div>
- <!-- Frontend -->
- <h4>Frontend</h4>
- <img src="https://skillicons.dev/icons?i=next,react,tailwind,,html,css" alt="Frontend stack icons"/>
+## Experience
 
- <!-- Backend -->
- <h4>Backend</h4>
- <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="Backend stack icons"/>
+### Deep Learning Researcher (Internship)
+**Indian Institute of Technology Guwahati (IIT Guwahati)** (Feb 2024 - Present)
 
- <!-- Database -->
- <h4>Database</h4>
- <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database icons"/>
+- Contributing to the development of Convolutional Neural Networks (CNN) architectures for a research project focused on Image Captioning using Git-Based and Vision-Language Models.
+- Utilizing PyTorch, Hugging Face Transformers and Datasets, and GPU acceleration.
+- Applying skills in Computer Vision, Neural Networks, Fine-Tuning, Exploratory Data Analysis, Feature detection and matching, and Geometry.
 
- <!-- Programming Languages -->
- <h4>Programming Languages</h4>
- <img src="https://skillicons.dev/icons?i=javascript,typescript,python" alt="Programming language icons"/>
+### Data Science & Software Engineer (Internship)
+**Nestria (Byte) - Spryte Labs** (Aug 2023 - Dec 2023)
 
- <!-- Tools & Others -->
- <h4>Tools & Others</h4>
- <img src="https://skillicons.dev/icons?i=vscode,github,git,jupyter notebook" alt="Tools & other icons"/>
-</div>
+- Gained extensive training in Data Analysis and Machine Learning, including EDA, Statistical concepts, Data Visualization, Feature Engineering, and implementation of machine learning pipelines.
+- Conducted in-depth exploratory data analysis on large datasets and generated actionable insights for business decisions and strategy.
+- Tech Stack: NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, Airflow.
 
+## Technical Skills
 
+### Languages and Frameworks
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" alt="Flask">
+</p>
 
- <hr/>
+### Libraries
+<p>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/-Matplotlib-FF9C34?style=flat-square&logo=Matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/-Scikit&#32;Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
+  <img src="https://img.shields.io/badge/-NLTK-3776AB?style=flat-square&logo=NLTK&logoColor=white" alt="NLTK">
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=Seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV">
+</p>
 
- <h2>Projects</h2>
+### Developer Tools and Platforms
+<p>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Apache&#32;Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/-MLOps-FF6F00?style=flat-square&logo=MLOps&logoColor=white" alt="MLOps">
+  <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white" alt="CUDA">
+</p>
 
- <div>
-   <h3>Government Policy Education AI Chatbot (Claude 3 - Opus, FastAPI, Next.js)</h3>
-   <p>This AI chatbot, powered by the Claude 3 language model, aims to simplify complex government policies and enhance citizens' understanding of civic issues. With its personalized assistance, the chatbot empowers users to easily access and comprehend government policies.</p>
-   <p><strong>Live Link:</strong> <a href="https://permissionless-two.vercel.app/">https://permissionless-two.vercel.app/</a></p>
-   <p><strong>GitHub Repository:</strong> <a href="https://github.com/ashashree2000/permissionless">https://github.com/ashashree2000/permissionless</a></p>
- </div>
+## Projects
 
-  <div>
-   <h3>
-Educational Course Recommendation System  (Unsupervised Machine Learning)</h3>
-   <p>
- Developed a Content Based Recommendation System that suggests courses based on user’s input of a selected course.
- Techniques of NLP such as Pre-processing, Count Vectorization, Stemming, Cosine Similarity are implemented.
- Deployed a Streamlit web interface for the same..</p>
-   <p><strong>Github Link:</strong> <a href="https://github.com/ashashree2000/Educational-Course-Recommendation-System.git">https://Educational-Content-Recommendation.com/</a></p>
- </div>
+### Government Policy Education AI Chatbot
+- Empowering citizens with easy access to government policies through an AI chatbot that simplifies complex financial policies, offers personalized assistance, and enhances understanding of civic issues.
+- Tech Stack: LLM, Fine-Tuning, Claude 3 - Opus, FastAPI, Next.js
+- Live Link: Render + Vercel Deployment
+- GitHub Link: [Permisionless-AI-Chatbot](https://github.com/your-repo/Permisionless-AI-Chatbot)
 
- <div>
-   <h3>Data Analysis and Pipelining (EDA, Feature Enginnering, Visualisation)</h3>
-   <p>Performed data analysis using the finest techniques on various datasets to get started in the field of Data Science.
-• Improved proficiency in statistical concepts and visualization libraries/tools.</p>
-  
-   <p><strong>GitHub Repository:</strong> <a href="https://github.com/ashashree2000/Data_Analytics.git">https://github.com/ashashree2000/data-analysis</a></p>
- </div>
+### Educational Course Recommendation System
+- Developed a 'Content Based' Recommendation System that suggests courses based on user's input of a selected course, utilizing techniques like Pre-processing, Count Vectorization, Stemming, and Cosine Similarity.
+- Tech Stack: Recommender Engine, scikit-learn, FastAPI, Next.js
+- Live Link: Render + Vercel Deployment
+- GitHub Link: [Educational-Course-RecommendationSys](https://github.com/your-repo/Educational-Course-RecommendationSys)
 
- <div>
-   <h3>News Article Sentiment Analysis (Flask, Vader, TextBlob, Next.js, Tailwind CSS)</h3>
-   <p>A sentiment analysis web application for news articles and product reviews, leveraging natural language processing (NLP) techniques with Vader and TextBlob. The user-friendly interface ensures seamless analysis.</p>
-   <p><strong>Live Link:</strong> <a href="https://sentiment-analysis-xi.vercel.app/">https://sentiment-analysis-xi.vercel.app/</a></p>
-   <p><strong>GitHub Repository:</strong> <a href="https://github.com/ashashree2000/sentimentAnalysis">https://github.com/ashashree2000/sentimentAnalysis</a></p>
- </div>
+### Contextual Sentimental Analysis
+- Developed a Flask app that fetches NEWS articles mentioning a given name as per its related sentiment, leveraging the Vader pre-trained NLP model, integrating Google custom search API, and implementing techniques like POS tagging and named entity recognition.
+- Tech Stack: Vader, newspaper3k, NLTK, BeautifulSoup, Flask
+- GitHub Link: [Ethos-Hackathon-Final](https://github.com/your-repo/Ethos-Hackathon-Final)
 
 
 
