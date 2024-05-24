@@ -1,14 +1,29 @@
-<h1 align="center">Ashashree Sarma</h1>
+<h1 align="center">Hi 👋, I'm Ashashree Sarma </h1>
+<h3 align="center">A Data Science enthuaist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1EjUj3EvfpyxEheOu7HoDUPNMAwJxkoWm/view?usp=sharing">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashashree2000/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ashashreesarma7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://github.com/asha7shree" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashashree2000&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+
+- 🔭 I’m currently working on **Vexa Web App**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **rishavchanda0@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
-
-## About Me
-
-I am a passionate and skilled Computer Science and Engineering student with expertise in various technologies and programming languages. My areas of interest include Deep Learning, Computer Vision, Natural Language Processing, and Data Science. I have a strong academic background and hands-on experience through internships and projects.
 
 ## Education
 
