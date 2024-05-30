@@ -39,6 +39,8 @@
  <hr/>
  <br>
 
+
+
 ## Technical Skills :
 
 ### Languages and Frameworks
@@ -136,8 +138,10 @@ detection and matching, Geometry.
 - Gained extensive training in Data Analysis and Machine Learning, including EDA, Statistical concepts, Data Visualization, Feature Engineering, and implementation of machine learning pipelines.
 - Conducted in-depth exploratory data analysis on large datasets and generated actionable insights for business decisions and strategy.
 - Tech Stack: NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, Airflow.
-- Repo Link : https://github.com/ashashree2000/Data_Analytics.git
+- Repo Link : [Upskilling-Analytics](https://github.com/ashashree2000/Data_Analytics.git)
 
+<hr/>
+ <br>
 
 
 ## Projects :
@@ -145,8 +149,8 @@ detection and matching, Geometry.
 ### Government Policy Education AI Chatbot
 - Empowering citizens with easy access to government policies through an AI chatbot that simplifies complex financial policies, offers personalized assistance, and enhances understanding of civic issues.
 - Tech Stack: LLM, Fine-Tuning, Claude 3 - Opus, FastAPI, Next.js
-- Live Link: Render + Vercel Deployment
-- GitHub Link: [Permisionless-AI-Chatbot](https://github.com/your-repo/Permisionless-AI-Chatbot)
+- Live Link: https://permissionless-two.vercel.app/
+- GitHub Link: [Permisionless-AI-Chatbot](https://github.com/ashashree2000/permissionless.git)
 
 ### Educational Course Recommendation System
 - Developed a 'Content Based' Recommendation System that suggests courses based on user's input of a selected course, utilizing techniques like Pre-processing, Count Vectorization, Stemming, and Cosine Similarity.
