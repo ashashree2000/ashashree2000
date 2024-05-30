@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ashashree Sarma </h1>
-<h3 align="center">A Data Science enthuaist from India</h3>
+<h1 align="center">Hi 👋, I'm Ashashree Sarma 👩🏻‍💻 </h1>
+<h3 align="center">A Data Science enthuaist from India🇮🇳</h3>
 
 
 
 
 
-- 🔭 I’m currently working on **Git Based Models**
+- 🔭 I’m currently working on a **GIT Based Model**
 
 - 🌱 I’m currently learning **MLOps**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashashreesarma7@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **"Data scientists spend around 80% of their time cleaning and preparing data."**
 
 
 
