@@ -98,7 +98,7 @@
 
 
 
-## Education
+## Education :
 
 - **Bachelor of Engineering (Honors) in Computer Science & Engineering**
   - Assam Engineering College, Assam Science and Technology University (Aug 2019 - Jun 2023)
@@ -117,14 +117,18 @@
  <br>
 
 
-## Experience
+## Experience :
 
 ### Deep Learning Researcher (Internship)
+
+**Da’Spatio Rhobotique Laboratory, Technology Incubation Centre**
 **Indian Institute of Technology Guwahati (IIT Guwahati)** (Feb 2024 - Present)
+
 
 - Contributing to the development of Convolutional Neural Networks (CNN) architectures for a research project focused on Image Captioning using Git-Based and Vision-Language Models.
 - Utilizing PyTorch, Hugging Face Transformers and Datasets, and GPU acceleration.
-- Applying skills in Computer Vision, Neural Networks, Fine-Tuning, Exploratory Data Analysis, Feature detection and matching, and Geometry.
+- In-demand research skills: : Computer Vision, Neural Networks, Fine-Tuning, Exploratory Data Analysis, Feature
+detection and matching, Geometry.
 
 ### Data Science & Software Engineer (Internship)
 **Nestria (Byte) - Spryte Labs** (Aug 2023 - Dec 2023)
@@ -132,10 +136,11 @@
 - Gained extensive training in Data Analysis and Machine Learning, including EDA, Statistical concepts, Data Visualization, Feature Engineering, and implementation of machine learning pipelines.
 - Conducted in-depth exploratory data analysis on large datasets and generated actionable insights for business decisions and strategy.
 - Tech Stack: NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, Airflow.
+- Repo Link : https://github.com/ashashree2000/Data_Analytics.git
 
 
 
-## Projects
+## Projects :
 
 ### Government Policy Education AI Chatbot
 - Empowering citizens with easy access to government policies through an AI chatbot that simplifies complex financial policies, offers personalized assistance, and enhances understanding of civic issues.
