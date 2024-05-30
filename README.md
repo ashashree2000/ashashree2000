@@ -4,7 +4,10 @@
 
 <h1 align="center">Hi 👋,  I'm ASHASHREE SARMA  </h1>
 <h3 align="center">A Data Science Enthuaist from India 🇮🇳!</h3>
+<br>
+<br>
 <img align="right" alt="Coding" width="400" src="image_processing20210301-3601-w1fbuc.gif">
+
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=ashashree2000&label=Profile%20views&color=0e75b6&style=flat" alt="ashashree2000" /> 
 </p>
@@ -33,40 +36,10 @@
     <a href="https://www.instagram.com/icomewithanaccent/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icomewithanaccent" height="30" width="40" /></a>
     <a href="https://www.youtube.com/channel/UChkpzJXfNv0_Rc3SYHj-SDw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashashree17321" height="30" width="40" /></a>
 </p>
+ <hr/>
+ <br>
 
-
-
-
-
-
-
-
-
-
-
-## Education
-
-- **Bachelor of Engineering (Honors) in Computer Science & Engineering**
-  - Assam Engineering College, Assam Science and Technology University (Aug 2019 - Jun 2023)
-  - First Class, 81.4% (Top 5%)
-
-## Experience
-
-### Deep Learning Researcher (Internship)
-**Indian Institute of Technology Guwahati (IIT Guwahati)** (Feb 2024 - Present)
-
-- Contributing to the development of Convolutional Neural Networks (CNN) architectures for a research project focused on Image Captioning using Git-Based and Vision-Language Models.
-- Utilizing PyTorch, Hugging Face Transformers and Datasets, and GPU acceleration.
-- Applying skills in Computer Vision, Neural Networks, Fine-Tuning, Exploratory Data Analysis, Feature detection and matching, and Geometry.
-
-### Data Science & Software Engineer (Internship)
-**Nestria (Byte) - Spryte Labs** (Aug 2023 - Dec 2023)
-
-- Gained extensive training in Data Analysis and Machine Learning, including EDA, Statistical concepts, Data Visualization, Feature Engineering, and implementation of machine learning pipelines.
-- Conducted in-depth exploratory data analysis on large datasets and generated actionable insights for business decisions and strategy.
-- Tech Stack: NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, Airflow.
-
-## Technical Skills
+## Technical Skills :
 
 ### Languages and Frameworks
 <p>
@@ -102,6 +75,65 @@
   <img src="https://img.shields.io/badge/-MLOps-FF6F00?style=flat-square&logo=MLOps&logoColor=white" alt="MLOps">
   <img src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white" alt="CUDA">
 </p>
+ <hr/>
+ <br>
+
+ <h2>GitHub Stats : </h2>
+
+ <div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashashree2000&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=ashashree2000&show_icons=true&locale=en" alt="GitHub Stats"/>
+ </div>
+
+ <div>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashashree2000&" alt="GitHub Streak"/>
+ </div>
+
+ 
+
+
+
+ <hr/>
+ <br>
+
+
+
+## Education
+
+- **Bachelor of Engineering (Honors) in Computer Science & Engineering**
+  - Assam Engineering College, Assam Science and Technology University (Aug 2019 - Jun 2023)
+  - First Class, 81.4% (Top 5%)
+ 
+- **Intermediate (XII), Stream - Science**
+  - Maharishi Vidya Mandir Public School, CBSE (June 2017 – May 2019)
+  - 87.6% (Grade: A)
+ 
+- **Matriculation (X)**
+  - SBOA Public School, CBSE (March 2016 – Feb 2017)
+  - 10 CGPA (School Topper)
+ 
+
+ <hr/>
+ <br>
+
+
+## Experience
+
+### Deep Learning Researcher (Internship)
+**Indian Institute of Technology Guwahati (IIT Guwahati)** (Feb 2024 - Present)
+
+- Contributing to the development of Convolutional Neural Networks (CNN) architectures for a research project focused on Image Captioning using Git-Based and Vision-Language Models.
+- Utilizing PyTorch, Hugging Face Transformers and Datasets, and GPU acceleration.
+- Applying skills in Computer Vision, Neural Networks, Fine-Tuning, Exploratory Data Analysis, Feature detection and matching, and Geometry.
+
+### Data Science & Software Engineer (Internship)
+**Nestria (Byte) - Spryte Labs** (Aug 2023 - Dec 2023)
+
+- Gained extensive training in Data Analysis and Machine Learning, including EDA, Statistical concepts, Data Visualization, Feature Engineering, and implementation of machine learning pipelines.
+- Conducted in-depth exploratory data analysis on large datasets and generated actionable insights for business decisions and strategy.
+- Tech Stack: NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, Airflow.
+
+
 
 ## Projects
 
@@ -126,18 +158,7 @@
 
  <hr/>
 
- <h2>GitHub Stats</h2>
 
- <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashashree2000&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=ashashree2000&show_icons=true&locale=en" alt="GitHub Stats"/>
- </div>
-
- <div>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashashree2000&" alt="GitHub Streak"/>
- </div>
-
- <hr/>
 
  <h2>Contact</h2>
 
