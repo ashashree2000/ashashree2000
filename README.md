@@ -149,24 +149,26 @@ detection and matching, Geometry.
 ### Government Policy Education AI Chatbot
 - Empowering citizens with easy access to government policies through an AI chatbot that simplifies complex financial policies, offers personalized assistance, and enhances understanding of civic issues.
 - Tech Stack: LLM, Fine-Tuning, Claude 3 - Opus, FastAPI, Next.js
-- Live Link: https://permissionless-two.vercel.app/
+- Live Link:  [Vercel + Render Seployment](https://permissionless-two.vercel.app/)
 - GitHub Link: [Permisionless-AI-Chatbot](https://github.com/ashashree2000/permissionless.git)
 
-### Educational Course Recommendation System
+### Educational Course Recommendation System, Recommendation Engine
 - Developed a 'Content Based' Recommendation System that suggests courses based on user's input of a selected course, utilizing techniques like Pre-processing, Count Vectorization, Stemming, and Cosine Similarity.
-- Tech Stack: Recommender Engine, scikit-learn, FastAPI, Next.js
-- Live Link: Render + Vercel Deployment
-- GitHub Link: [Educational-Course-RecommendationSys](https://github.com/your-repo/Educational-Course-RecommendationSys)
+- Tech Stack: scikit-learn, FastAPI, Next.js
+- Live Link: [Vercel + Render Seployment](https://educational-course-recommendation-system.vercel.app/)
+- GitHub Link: [Educational-Course-RecommendationSys](https://github.com/ashashree2000/Educational-Course-Recommendation-System.git)
 
 ### Contextual Sentimental Analysis
 - Developed a Flask app that fetches NEWS articles mentioning a given name as per its related sentiment, leveraging the Vader pre-trained NLP model, integrating Google custom search API, and implementing techniques like POS tagging and named entity recognition.
 - Tech Stack: Vader, newspaper3k, NLTK, BeautifulSoup, Flask
-- GitHub Link: [Ethos-Hackathon-Final](https://github.com/your-repo/Ethos-Hackathon-Final)
+- GitHub Link: [Ethos-Hackathon-Final](https://github.com/ashashree2000/EthosHackathon_IITG)
+
+
 
 
 
  <hr/>
-
+<br>
 
 
  <h2>Contact</h2>
