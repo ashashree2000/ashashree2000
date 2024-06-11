@@ -6,7 +6,8 @@
 <h3 align="center">A Data Science Enthuaist from India 🇮🇳 👩‍💻 </h3>
 
 <p align="center">Welcome to My GitHub Page. </p>
-<p align="center"> Explore my projects, skills, and experiences. Feel free to connect and collaborate !</p>
+<p align="center"> Explore my projects, skills, and experiences. 
+Feel free to connect and collaborate !</p>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="image_processing20210301-3601-w1fbuc.gif">
